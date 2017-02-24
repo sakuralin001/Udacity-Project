@@ -1,5 +1,4 @@
-# Udacity-Project
-　<!DOCTYPE html>
+<!DOCTYPE html>
  <html>
      <head>
          <title>My study note (Stage 1)<title>
@@ -19,7 +18,7 @@
          
          <p>
          <b>Element Attributes</b>
-         <a href-“url”>the link</a>
+         <a href＝“url”>the link</a>
          <img src=“url” alt=“text”>
          </p>
          
